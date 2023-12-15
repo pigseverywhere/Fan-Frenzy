@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/Fase_Tela_Pedida.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
